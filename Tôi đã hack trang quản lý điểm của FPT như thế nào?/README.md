@@ -101,7 +101,7 @@ print(response.text)
 
 <img src="payload.fpt.png">
   
-* Url trả về cho thấy mình đã post đc con shell lên server =)), eazy, tiếp theo là access con shell qua url trả về
+* Url trả về cho thấy mình đã post được con shell lên server tiếp theo là access con shell qua url trả về
 
 <img src="shell.fpt.png">
 
