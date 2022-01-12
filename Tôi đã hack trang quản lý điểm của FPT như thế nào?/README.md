@@ -37,7 +37,7 @@ Send Question
   
   * Thứ 2:
   
-  <img src="params&content-type.fpt.png">
+    <img src="params&content-type.fpt.png">
   
   * Request mình upload file lên sẽ được xử lý ở upload.aspx và lưu trong /temp/MOOC/‘tên file’
 Ý tưởng là sẽ dùng params có sẵn ở request để post file lên server thông qua upload.aspx, payload python đơn giản để test thử con shell:
